@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm **Mukunthan Balu** 👋
 
-<!--
-**MukunthanBalu/MukunthanBalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT & Computer Systems Professional | Master's Candidate | Business Psychologist **
+I specialize in bridging the gap between technical data architecture and human behavior insights. 
+🌍 **International Experience**: Managed operations, data, and HR across Latvia, France, Germany, and the Czech Republic. 
+🎓 **Education**: Pursuing a Master's in Computer Systems at Riga Nordic University with an MBA in Business Psychology. 
+🛠️ **Tech Stack**: Advanced SQL, NoSQL, Python, and Data Visualization (Power BI/Tableau). 
+🧠 **The Edge**: Applying Psychological frameworks to improve user engagement and organizational patterns. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Current Projects**
+**Umbrella** (The Dramatic Weather Assistant) A behavior-driven weather app that uses humor and "dramatic" psychology to ensure users never get soaked.
+**Goal:** Solving "alert fatigue" by sending personality-driven notifications 20 minutes before rain.
+**Tech:** Python for API integration and SQL for user preference management. System Optimization Analyzing complex datasets to translate business requirements into technical specifications. 
+**📫 Connect with me:**
+Email: balu.mukunthan7@gmail.com 
+LinkedIn: www.linkedin.com/in/mukunthanbalu7
+Location: Riga, Latvia 
