@@ -32,16 +32,13 @@ I am a data analyst based in **Riga, Latvia** 🇱🇻 with a background in **Fi
 ---
 
 ### 🎓 Education & Certifications
-* **M.Sc. Computer Systems** | [cite_start]Riga Nordic University (Expected 2026) [cite: 71, 72, 73]
-* **ISO 20022 Essentials** | [cite_start]Alison Certified [cite: 122]
-* **Atlassian Certified Associate** | [cite_start]Jira Project Management [cite: 122]
-
+* **M.Sc. Computer Systems** | Riga Nordic University (Expected 2026)
+* **ISO 20022 Essentials** | Alison Certified
+* **Atlassian Certified Associate** | Jira Project Management
 ---
-
 ### 📫 Let's Connect!
-* [cite_start]**LinkedIn:** [linkedin.com/in/mukunthanbalu7](https://linkedin.com/in/mukunthanbalu7) 
-* [cite_start]**Portfolio:** [mukunthanbalu.vercel.app](https://mukunthanbalu.vercel.app) 
-* [cite_start]**Email:** balu.mukunthan7@gmail.com [cite: 64]
-
+* **LinkedIn:** [linkedin.com/in/mukunthanbalu7](https://linkedin.com/in/mukunthanbalu7)
+* **Portfolio:** [mukunthanbalu.vercel.app](https://mukunthanbalu.vercel.app)
+* **Email:** balu.mukunthan7@gmail.com
 ---
 *"Turning raw data into strategic business decisions."*
