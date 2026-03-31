@@ -1,46 +1,47 @@
-Hi, I'm Mukunthan Balu 👋
-Junior Data Analyst & Business Analyst | Riga, Latvia
-I turn raw data into decisions. Based in Riga, I work across fintech, HR analytics, and business operations — combining technical analysis with stakeholder-facing deliverables.
-Currently completing an M.Sc. in Computer Systems at Riga Nordic University, with an MBA in Business Psychology from Turiba University.
+# Hi, I'm Mukunthan Balu 👋 
+### Junior Data Analyst | SQL • Power BI • Python | M.Sc. Computer Systems
 
-🛠️ Tech Stack
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+I am a data analyst based in **Riga, Latvia** 🇱🇻 with a background in **Fintech compliance, HR operations, and business management**. I specialize in transforming complex datasets into executive-level insights, with a particular focus on **ISO 20022** standards and banking infrastructure.
 
-📂 Featured Projects
-🇱🇻 Latvia Credit Transfer Analysis (2000–2024)
+---
 
-Python · SQL · Looker Studio · ISO 20022
+### 🚀 Featured Projects
 
-25 years of ECB payment data analyzed to map Latvia's ISO 20022 migration impact. Identified a 27% transaction surge in 2023 and documented Latvia's historic €1 Trillion milestone in 2024. Executive dashboard + stakeholder briefing included.
+#### 🏦 [Latvia Payment Infrastructure & ISO 20022 Analysis](https://github.com/MukunthanBalu/Latvia-Payment-Analysis-ISO20022)
+* **The Goal:** Analyzed 25 years of ECB data to map the impact of the ISO 20022 migration on Latvian credit transfers.
+* **Key Insight:** Identified a **27.2% surge** in transaction values in 2023, hitting a historic **€1 Trillion** milestone.
+* **Tech Stack:** Python (Pandas), Looker Studio, SQL.
 
-🍣 Bites & Beyond: Revenue & Operations Audit
+#### 📊 [Bites & Beyond: Revenue & Operations Audit](https://github.com/MukunthanBalu/Bites-Beyond-Sales-Audit)
+* **The Goal:** Engineered a fiscal audit for a restaurant business, processing 500+ transactional records.
+* **Key Insight:** Performed "Menu Engineering" to reveal that premium items (Sushi) outperformed high-volume items (Burgers) on gross margin.
+* **Tech Stack:** Python, Matplotlib, SQL (SQLite).
 
-Python · SQL (SQLite) · Pandas · Matplotlib
+---
 
-Full fiscal year audit of 500+ transactional records across 14 menu items. Menu engineering analysis revealed that Sushi Sets generated €2,984 in gross revenue despite lower volume than top-selling Burgers — directly supporting business valuation decisions.
+### 🛠️ Technical Toolbox
 
-🏅 Certifications
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Analysis** | SQL (Advanced), Python (Pandas, NumPy), NoSQL |
+| **Visualization** | Power BI, Tableau, Google Looker Studio, Matplotlib |
+| **Architecture** | Data Warehouse (DWH) concepts, Apache Iceberg, Snowflake |
+| **Compliance** | ISO 20022 Standards, GDPR, Business Process Modeling |
+| **Project Mgmt** | Jira (Atlassian Certified ACA), Agile/Scrum |
 
-📜 ISO 20022 Essentials – Building a Robust Foundation | Alison
-📜 Atlassian Certified Associate – Jira Project Management | Atlassian
-📜 Human Resources: Payroll | LinkedIn Learning
+---
 
+### 🎓 Education & Certifications
+* **M.Sc. Computer Systems** | [cite_start]Riga Nordic University (Expected 2026) [cite: 71, 72, 73]
+* **ISO 20022 Essentials** | [cite_start]Alison Certified [cite: 122]
+* **Atlassian Certified Associate** | [cite_start]Jira Project Management [cite: 122]
 
-🌍 Background
+---
 
-🇱🇻 Based in Riga, Latvia (EU work authorization)
-🌐 International experience across Latvia, France, and Germany
-🗣️ English (Fluent) · Latvian (Basic) · Tamil (Native)
+### 📫 Let's Connect!
+* [cite_start]**LinkedIn:** [linkedin.com/in/mukunthanbalu7](https://linkedin.com/in/mukunthanbalu7) 
+* [cite_start]**Portfolio:** [mukunthanbalu.vercel.app](https://mukunthanbalu.vercel.app) 
+* [cite_start]**Email:** balu.mukunthan7@gmail.com [cite: 64]
 
-
-📬 Connect
-Show Image
-Show Image
-Show Image
-
-Open to Junior Data Analyst and Business Analyst opportunities in Latvia and remote EU roles.
+---
+*"Turning raw data into strategic business decisions."*
